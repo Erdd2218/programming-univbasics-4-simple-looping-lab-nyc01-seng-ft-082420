@@ -19,6 +19,7 @@ def loop_message_n_times(message, number)
   end
 end 
 
+
 def output_array(array)
   i = 0 
   
@@ -30,6 +31,7 @@ def output_array(array)
   end
 end 
 
+
 def return_string_array(array)
   i = 0 
   newArr = []
@@ -39,5 +41,6 @@ def return_string_array(array)
   
   i += 1 
   end
+  
   newArr
 end 
